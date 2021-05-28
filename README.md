@@ -1,5 +1,4 @@
 Um pouco sobre mim...
------------------------------
-Meu nome é Lucas, tenho 16 anos. Atualmente faço o curso técnico
-de desenvolvimento de sistemas e estou terminando o ensino médio.
+---
+Meu nome é Lucas, tenho 16 anos, sou de Resende/RJ e sou estudante do ensino-médio. Atualmente faço o curso técnico de desenvolvimento de sistemas.
 Atualmente estou estudando Python.
