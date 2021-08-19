@@ -1,6 +1,6 @@
 Um pouco sobre mim...
 ---
-Meu nome é Lucas, tenho 17 anos! Sou do RJ e atualmente estudo Desenvolvimento de Sistemas no SENAI.
+Meu nome é Lucas, tenho 17 anos! Atualmente estou estudando Desenvolvimento de Sistemas.
 
 <center>
 <table>
