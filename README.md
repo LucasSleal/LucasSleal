@@ -1,6 +1,6 @@
 Um pouco sobre mim...
 ---
-Meu nome é Lucas, tenho 17 anos! Moro na cidade de Resende e atualmente estudo Desenvolvimento de Sistemas no SENAI Resende.
+Meu nome é Lucas, tenho 17 anos! Sou do RJ e atualmente estudo Desenvolvimento de Sistemas no SENAI.
 
 <center>
 <table>
